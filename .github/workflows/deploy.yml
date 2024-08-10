@@ -39,4 +39,4 @@ jobs:
         with:
           project: "gledson-express-17"
           entrypoint: "server.js"
-          root: "/"
+          root: ""
